@@ -9,8 +9,6 @@ function inicializar() {
 }
 
 //#region Personajes
-
-
 async function verPersonajes() {
   try {
     await obtenerPersonajes();
